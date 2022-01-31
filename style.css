@@ -30,6 +30,7 @@ body{
   padding: 10px;
 }
 .body .menu .row1, .body .menu .row2, .body .menu h1{
+  justify-content: center;
   text-align: center;
 }
 #filter{
